@@ -1,0 +1,11 @@
+# Path to an uncompressed FASTA file with all transcript sequences.
+dna: Sequence/dna.fa
+gtf: Annotation/anno.gtf
+cDNA: Sequence/cdna.fa
+genome_hisat2_index: hisat2_index/genome.fa
+
+# Path to a folder where intermediate files will be written.
+workDir: Result/
+
+# Path to a YAML file with samples and their corresponding FASTQ files.
+sampleYaml: sample.yaml

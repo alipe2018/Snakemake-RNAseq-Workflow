@@ -1,0 +1,12 @@
+CK_Rep1:
+  - Cleandata/M1/M1_R1.fq.gz
+  - Cleandata/M1/M1_R2.fq.gz
+CK_Rep2:
+  - Cleandata/M2/M2_R1.fq.gz
+  - Cleandata/M2/M2_R2.fq.gz
+TA_Rep1:
+  - Cleandata/M3/M3_R1.fq.gz
+  - Cleandata/M3/M3_R2.fq.gz
+TA_Rep2:
+  - Cleandata/M4/M4_R1.fq.gz
+  - Cleandata/M4/M4_R2.fq.gz
